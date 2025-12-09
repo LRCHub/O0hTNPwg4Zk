@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "宴",
+  "base_artist": "john",
+  "createdAt": "2025-12-09T13:41:16.334756Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "宴",
+      "artist": "John",
+      "has_synced": false,
+      "path": "select/01_宴_John.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "宴",
+      "artist": "john",
+      "has_synced": true,
+      "path": "select/02_宴_john.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "宴",
+      "artist": "john feat. Hatsune, Miku",
+      "has_synced": false,
+      "path": "select/03_宴_john_feat._Hatsune,_Miku.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "宴",
+      "artist": "REISAI",
+      "has_synced": true,
+      "path": "select/04_宴_REISAI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "宴",
+      "artist": "FN2 feat. Ayakura, Mei",
+      "has_synced": false,
+      "path": "select/05_宴_FN2_feat._Ayakura,_Mei.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "宴",
+      "artist": "FN2",
+      "has_synced": false,
+      "path": "select/06_宴_FN2.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "宴",
+      "artist": "john",
+      "has_synced": false,
+      "path": "select/pl_01_宴_john.txt"
+    }
+  ]
+}
